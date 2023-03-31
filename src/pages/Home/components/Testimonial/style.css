@@ -1,0 +1,15 @@
+.testimonialCard {
+  width: 619px !important;
+  height: 270px !important;
+  background-color: #f1f3ff !important;
+  padding: 69px 32px 69px 46px;
+}
+
+.slickContainer {
+  padding: 40px;
+  background: #419be0;
+}
+
+.slick-slide img {
+  margin: auto;
+}
